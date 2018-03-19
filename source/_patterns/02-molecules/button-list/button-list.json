@@ -1,0 +1,24 @@
+{
+    "button":{
+        "tag": "a",
+        "link": "http://google.com",
+        "text": "Hello"
+    },
+
+    "lists":{
+
+        "list": [
+            {
+                "name": "List item 1"
+            },
+
+            {
+                "name": "List item 2"
+            },
+
+            {
+                "name": "List item 3"
+            }
+        ]
+    }
+}

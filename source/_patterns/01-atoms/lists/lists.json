@@ -1,0 +1,13 @@
+{
+    "list": [
+        {
+            "name": "List item one"
+        },
+        {
+            "name": "List item two"
+        },
+        {
+            "name": "List item three"
+        }
+    ]
+}

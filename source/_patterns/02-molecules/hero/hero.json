@@ -1,0 +1,7 @@
+{
+    "img-url": "http://demo.patternlab.io/images/fpo_hero.png",
+    "link": "#",
+    "img": "-hero__img",
+    "headline": "-hero__headline",
+    "wrapper": "-hero"
+}

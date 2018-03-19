@@ -1,0 +1,29 @@
+{
+    "logo":{
+        "tag": "a",
+        "link": "http://google.com",
+        "logo": "Atomic",
+    },
+
+    "navbarList":{
+
+        "list": [
+            {
+                "page": "Menu Item"
+            },
+
+            {
+                "page": "Secondary Item"
+            },
+
+            {
+                "page": "Last Item"
+            }
+        ]
+    },
+
+
+    "search":{
+
+    }
+}

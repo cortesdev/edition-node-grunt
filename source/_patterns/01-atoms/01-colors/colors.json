@@ -1,0 +1,40 @@
+{
+
+    "class": "list--horizontal",
+    "colors": [
+        {
+            "name": "#FFF275",
+            "color-mixin": "$color-yellow",
+            "modifier": "background__yellow",
+            "text": "Yellow"
+        },
+
+        {
+            "name": "#FF8C42",
+            "color-mixin": "$color-orange",
+            "modifier": "background__orange",
+            "text": "Orange"
+        },
+
+        {
+            "name": "#FF3C38",
+            "color-mixin": "$color-red",
+            "modifier": "background__red",
+            "text": "Red"
+        },
+
+        {
+            "name": "#34495e",
+            "color-mixin": "$color-darkblue",
+            "modifier": "background__darkblue",
+            "text": "Dark Blue"
+        },
+
+        {
+            "name": "#3498db",
+            "color-mixin": "$color-blue",
+            "modifier": "background__blue",
+            "text": "Blue"
+        }
+    ]
+}
